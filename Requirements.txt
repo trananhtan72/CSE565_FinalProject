@@ -1,0 +1,9 @@
+# This project uses only Python standard library modules.
+# Tested with Python 3.9+.
+#
+# No external packages are required.
+#
+# Standard library imports used:
+# - sys
+# - os
+# - collections (defaultdict, deque)
